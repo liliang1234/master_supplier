@@ -3,7 +3,7 @@
 <%@ include file="/WEB-INF/views/include/taglibs.jsp"%>
 <%@taglib uri="http://java.sun.com/jsp/jstl/functions" prefix="fn"%>
 <style type="text/css">
-    .isvisible {水电费
+    .isvisible {
         visibility: hidden;
         display: inline-block;
     }    
@@ -22,7 +22,7 @@
     #lock_modal .form1 .list-horizontal {
         display: none;
     }
-sdfadsfdasfds
+
 </style>
 <style>
 .calendar {
